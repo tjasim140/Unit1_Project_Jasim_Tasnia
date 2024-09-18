@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
         //Preparation for user input
         Scanner s = new Scanner(System.in);
+
         //Decoration
         System.out.println("---------------------------------------");
         //Variables bill, tip, and numPpl take initial costs and number of people through user input and convert them to double or integer values to be used to calculate final amounts
